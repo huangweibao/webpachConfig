@@ -1,4 +1,4 @@
-# webpachConfig
+# webpackConfig
 webpack-config.js配置文件
 module.exports = {
     //配置入口文件的读入
